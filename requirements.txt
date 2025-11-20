@@ -1,0 +1,8 @@
+flask==3.0.3
+flask-cors==4.0.1
+langcodes==3.4.0
+python-dotenv==1.0.1
+openai==1.23.0
+pandas==2.2.1
+watchdog==4.0.0
+pyttsx3==2.90
