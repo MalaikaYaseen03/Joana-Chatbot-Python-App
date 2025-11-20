@@ -1708,6 +1708,7 @@ import os
 import re
 import sqlite3
 import difflib  # (imported but not used – kept as in original)
+import requests
 
 import pandas as pd
 from flask import Flask, render_template, request, jsonify, session
